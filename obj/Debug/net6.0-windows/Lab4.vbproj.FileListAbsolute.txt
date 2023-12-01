@@ -1,0 +1,17 @@
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.MarioGame.resources
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.Resources.resources
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.vbproj.GenerateResource.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.AssemblyInfo.vb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.vbproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\bin\Debug\net6.0-windows\Lab4.exe
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\bin\Debug\net6.0-windows\Lab4.deps.json
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\bin\Debug\net6.0-windows\Lab4.runtimeconfig.json
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\bin\Debug\net6.0-windows\Lab4.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\bin\Debug\net6.0-windows\Lab4.pdb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\refint\Lab4.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.pdb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab4\WinFormsApp1\obj\Debug\net6.0-windows\ref\Lab4.dll
